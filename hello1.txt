@@ -2,3 +2,4 @@ first line
 secondline
 thirdline
 settings
+about us
